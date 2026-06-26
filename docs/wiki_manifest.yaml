@@ -1,0 +1,17 @@
+---
+doc-role: wiki-manifest
+freshness: 2026-06-25
+---
+
+# Wiki Manifest — Learning Map Ladder
+
+id: learning-map-ladder
+portfolio_tier: personal
+description: >
+  Learning Map Ladder
+
+sources:
+  - path: ../README.md
+    role: overview
+  - path: ../CLAUDE.md
+    role: instructions
